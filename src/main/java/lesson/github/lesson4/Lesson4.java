@@ -14,5 +14,6 @@ public class Lesson4 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("I SUCK DICK");
+        System.out.println("RAAAAAAAAAAAH CUM IN MY MOUTH");
     }
 }
